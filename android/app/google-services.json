@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38577224994",
+    "project_id": "tik-time-17164",
+    "storage_bucket": "tik-time-17164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38577224994:android:7ee295544ecc25208b797b",
+        "android_client_info": {
+          "package_name": "com.PUA.tik_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38577224994-pjs32juulu1h3qu9k6etrchcmd6r6cpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbFYRXgcf3yuruoSkvNtmVOiCCpFZQ70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38577224994-pjs32juulu1h3qu9k6etrchcmd6r6cpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
